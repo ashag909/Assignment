@@ -56,26 +56,3 @@ insights_display.pack(padx=10, pady=5)
 
 # Run the application
 root.mainloop()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
